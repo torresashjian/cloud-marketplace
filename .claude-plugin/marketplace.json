@@ -11,7 +11,7 @@
         {
             "name": "my-plugin",
             "source": "command",
-            "command": "./plugins/my-plugin/.claude-plugin/scripts/update.sh"
+            "command": "./plugins/my-plugin/scripts/update.sh"
         }
     ]
 }
