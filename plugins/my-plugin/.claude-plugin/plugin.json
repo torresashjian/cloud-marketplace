@@ -7,5 +7,9 @@
     },
     "keywords": [
         "test"
-    ]
+    ],
+    "source": {
+        "source": "command",
+        "command": "./plugins/my-plugin/scripts/update.sh"
+    }
 }
