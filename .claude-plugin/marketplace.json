@@ -1,0 +1,17 @@
+{
+    "name": "miguel-test-marketplace",
+    "owner": {
+        "name": "Miguel Torres"
+    },
+    "metadata": {
+        "description": "Test marketplace",
+        "version": "0.1.0"
+    },
+    "plugins": [
+        {
+            "name": "my-plugin",
+            "source" "command",
+            "command": "./scripts/update.sh"
+        }
+    ]
+}

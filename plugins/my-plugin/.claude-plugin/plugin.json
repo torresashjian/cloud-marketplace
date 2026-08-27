@@ -1,0 +1,11 @@
+{
+    "name": "my-plugin",
+    "version": "0.1.0",
+    "description": "Test plugin",
+    "author": {
+        "name": "Miguel Torres"
+    },
+    "keywords": [
+        "test"
+    ]
+}
