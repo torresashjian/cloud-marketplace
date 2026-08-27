@@ -11,8 +11,10 @@
         {
             "name": "ngts-claude-plugin",
             "version": "0.1.0",
-            "source": "command",
-            "command": "./plugins/ngts-claude-plugin/scripts/update.sh"
+            "source": {
+                "source": "command",
+                "command": "./plugins/ngts-claude-plugin/scripts/update.sh"
+            }
         }
     ]
 }
