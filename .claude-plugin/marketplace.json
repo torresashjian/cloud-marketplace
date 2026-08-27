@@ -10,8 +10,7 @@
     "plugins": [
         {
             "name": "my-plugin",
-            "source": "command",
-            "command": "./scripts/update.sh"
+            "command": "./plugin/my-plugin/scripts/update.sh"
         }
     ]
 }
